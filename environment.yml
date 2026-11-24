@@ -1,0 +1,9 @@
+name: remote-sensing-image-tool
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gdal
+  - numpy
+  - pyqt6
+
